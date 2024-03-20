@@ -1,0 +1,9 @@
+*.png
+*.csv
+.devcontainer
+.vscode
+WindowsPowerShell
+*.zip
+*.keras
+*.h5
+*.run
